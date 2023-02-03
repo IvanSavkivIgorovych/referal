@@ -233,4 +233,8 @@ body {
   top: auto;
   bottom: 25px;
   right: -23px;
+}
+
+.items_wrapper {
+  transform: translateX(-57%);
 }/*# sourceMappingURL=style.css.map */
